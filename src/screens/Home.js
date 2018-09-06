@@ -44,7 +44,7 @@ export default () => (
             ]}
           />
         </Box>
-        <Box flex margin="large" overflow="auto">
+        <Box flex basis="auto" margin="large" overflow="auto">
           <Grid columns="small" gap="small">
             {cards ? (
               <InfiniteScroll items={cards}>
