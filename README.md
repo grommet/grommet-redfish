@@ -1,6 +1,7 @@
 # grommet-redfish
 
 This is a grommet based application using a redfish API endpoint.
+The UI implentation of this application isn't up to date with the most recent UI best practices, we would reccomend to look at the Grommet new components for Header, Sidebar, Main, Footer, Card and more.
 
 To run this application, execute the following commands:
 
